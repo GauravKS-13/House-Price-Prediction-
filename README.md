@@ -1,1 +1,1 @@
-# House-Price-Prediction-
+In this project, I have build a model to predict the selling price of a house. Main objective of this project was to analyze the dataset and get insights from the data using exploratory data analysis and data preprocessing techniques. 
